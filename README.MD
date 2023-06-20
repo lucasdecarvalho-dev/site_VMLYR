@@ -2,8 +2,7 @@
 
 <https://lucasdecarvalho-dev.github.io/site_VMLYR/>
 
-<video src="pagina-inicial-site.mp4" controls="controls" style="max-width: 500px;">
-</video>
+![site vmlyr](site.png)
 
 Página inicial baseada no site oficial da <a href="https://www.vmlyr.com/pt-br/brazil">VMLYR</a>. 
 
